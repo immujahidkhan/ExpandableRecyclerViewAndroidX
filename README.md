@@ -5,7 +5,7 @@ Custom RecyclerViewAdapters for expanding and collapsing groups with support for
 #ExpandableRecyclerView
 
 ```
-implementation 'com.github.immujahidkhan:ExpandableRecyclerViewAndroidX:Tag'
+implementation 'com.github.immujahidkhan:ExpandableRecyclerViewAndroidX:1.0'
 
 ```
 
