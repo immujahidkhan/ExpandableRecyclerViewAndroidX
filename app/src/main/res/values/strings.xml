@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Expandable RecyclerView AndroidX</string>
+    <string name="toggle_classic_group">Toggle Classic Group</string>
+</resources>

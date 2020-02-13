@@ -1,0 +1,2 @@
+include ':app', ':ExpandableRecyclerViewAndroidX'
+rootProject.name='Expandable RecyclerView AndroidX'
